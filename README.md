@@ -1,4 +1,4 @@
-# Hey there, cosmic comrade! 🌌
+# Hey there, cosmic comrade!👋🏽 🌌
 ## ⚡ Technologies
 ![Mongodb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=Mongodb)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
