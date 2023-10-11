@@ -11,7 +11,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-darkred?style=flat-square&logo=graphQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img src="https://img.shields.io/badge/-Apollo_server-purple"><img>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-darkblue?style=flat-square&logo=Tailwindcss)
 
