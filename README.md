@@ -1,6 +1,6 @@
 # Hey there, cosmic comrade!👋🏽 🌌
 
-Hi! you've landed on my GitHub turf. Explore my projects, and if you're interested in contributing, your skills are more than welcome.
+You've landed on my GitHub turf. Explore my projects, and if you're interested in contributing, your skills are more than welcome.
 Don't hesitate to reach out if you have questions or ideas.  
 
 Feel at home, and happy coding! 👩‍💻👨‍💻🛠️   
