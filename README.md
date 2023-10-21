@@ -5,7 +5,7 @@ Don't hesitate to reach out if you have questions or ideas!
 
 Feel at home, and happy coding! 👩‍💻👨‍💻🛠️   
 
-## ⚡ Technologies
+## ⚡ Technologies ⚡ 
 ![Mongodb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=Mongodb)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
